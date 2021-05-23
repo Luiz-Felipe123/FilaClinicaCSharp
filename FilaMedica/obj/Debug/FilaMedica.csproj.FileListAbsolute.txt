@@ -1,0 +1,12 @@
+C:\Users\Luizs\Desktop\ProjetoFila\FilaMedica\FilaMedica\bin\Debug\FilaMedica.exe.config
+C:\Users\Luizs\Desktop\ProjetoFila\FilaMedica\FilaMedica\bin\Debug\FilaMedica.exe
+C:\Users\Luizs\Desktop\ProjetoFila\FilaMedica\FilaMedica\bin\Debug\FilaMedica.pdb
+C:\Users\Luizs\Desktop\ProjetoFila\FilaMedica\FilaMedica\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Luizs\Desktop\ProjetoFila\FilaMedica\FilaMedica\obj\Debug\FilaMedica.csprojAssemblyReference.cache
+C:\Users\Luizs\Desktop\ProjetoFila\FilaMedica\FilaMedica\obj\Debug\FilaMedica.Background.resources
+C:\Users\Luizs\Desktop\ProjetoFila\FilaMedica\FilaMedica\obj\Debug\FilaMedica.Properties.Resources.resources
+C:\Users\Luizs\Desktop\ProjetoFila\FilaMedica\FilaMedica\obj\Debug\FilaMedica.csproj.GenerateResource.cache
+C:\Users\Luizs\Desktop\ProjetoFila\FilaMedica\FilaMedica\obj\Debug\FilaMedica.csproj.CoreCompileInputs.cache
+C:\Users\Luizs\Desktop\ProjetoFila\FilaMedica\FilaMedica\obj\Debug\FilaMedica.csproj.CopyComplete
+C:\Users\Luizs\Desktop\ProjetoFila\FilaMedica\FilaMedica\obj\Debug\FilaMedica.exe
+C:\Users\Luizs\Desktop\ProjetoFila\FilaMedica\FilaMedica\obj\Debug\FilaMedica.pdb
